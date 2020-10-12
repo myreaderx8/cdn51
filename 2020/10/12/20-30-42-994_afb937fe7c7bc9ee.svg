@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<svg width="600" height="600" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+  <rect x="100" y="100" width="400" height="400" style="fill:none;stroke:#000000" />
+  <text x="300" y="565"
+     style="font-size:40px;text-align:center;text-anchor:middle">Input</text>
+  <text x="-300.63477" y="60.683594" transform="rotate(-90)"
+     style="font-size:40px;text-align:center;text-anchor:middle">Output</text>
+  <path d="m 100,500 400,-320" style="fill:none;stroke:#ff0000;stroke-width:2"/>
+  <path d="m 100,500 400,-292" style="fill:none;stroke:#0000ff;stroke-width:2"/>
+  <path d="m 100,500 400,-168" style="fill:none;stroke:#00ff00;stroke-width:2"/>
+  <text x="515" y="188" style="font-size:32px">0.80</text>
+  <text x="515" y="220" style="font-size:32px">0.73</text>
+  <text x="515" y="340" style="font-size:32px">0.42</text>
+  <text x="500" y="525" style="font-size:24px;text-anchor:middle">1.0</text>
+  <text x="95"  y="110" style="font-size:24px;text-anchor:end">1.0</text>
+  <text x="100" y="525" style="font-size:24px;text-anchor:middle">0.0</text>
+  <text x="95"  y="505" style="font-size:24px;text-anchor:end">0.0</text>
+</svg>
