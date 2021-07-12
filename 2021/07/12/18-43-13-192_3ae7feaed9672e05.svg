@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="90px" height="71px" viewBox="0 0 90 71" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 59.1 (86144) - https://sketch.com -->
+    <title>product update icon</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="product-update-icon">
+            <circle id="icon-background-copy" fill="#D0D6DE" cx="35.5" cy="35.5" r="35.5"></circle>
+            <g id="l-settings" transform="translate(29.000000, 12.000000)" stroke="#43597A" stroke-linecap="square" stroke-width="2">
+                <path d="M6,32 L6,4 C6,1.791 7.791,0 10,0 L50,0 C52.209,0 54,1.791 54,4 L54,23" id="Path"></path>
+                <line x1="28" y1="6" x2="32" y2="6" id="Path"></line>
+                <path d="M28,38 L0,38 C0,42.418 3.582,46 8,46 L28,46" id="Path"></path>
+                <circle id="Oval" cx="47" cy="42" r="3"></circle>
+                <path d="M56,42 C56,41.56 55.958,41.13 55.897,40.707 L59.259,37.232 L57.259,33.768 L52.573,34.941 C51.896,34.406 51.141,33.967 50.327,33.643 L49,29 L45,29 L43.674,33.643 C42.86,33.967 42.105,34.406 41.428,34.941 L36.742,33.768 L34.742,37.232 L38.104,40.707 C38.042,41.13 38,41.56 38,42 C38,42.44 38.042,42.87 38.103,43.293 L34.741,46.768 L36.741,50.232 L41.427,49.059 C42.104,49.594 42.859,50.033 43.673,50.357 L45,55 L49,55 L50.326,50.357 C51.14,50.033 51.895,49.594 52.572,49.059 L57.258,50.232 L59.258,46.768 L55.896,43.293 C55.958,42.87 56,42.44 56,42 Z" id="Path"></path>
+            </g>
+        </g>
+    </g>
+</svg>
